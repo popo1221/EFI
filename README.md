@@ -6,3 +6,4 @@ CPU I7-8700K
 内存 金士顿 DDR4 2400 16G
 显卡 华硕 RX580 8G
 SMBIOS 19.1
+OpenCore 0.6.3
